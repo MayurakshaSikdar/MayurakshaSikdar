@@ -24,7 +24,58 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 - **Cloud Platforms:** AWS (2x Certified), GCP (Certified), Azure  
 - **DevOps & Tools:** Docker, Kubernetes, Terraform, Jenkins, Git, CI/CD Pipelines  
 - **Big Data & ETL:** Apache Spark, PySpark, AWS Glue, Data Lakes  
-- **AI & Automation:** Generative AI, AI Prompt Engineering, Hugging Face, LangChain  
+- **AI & Automation:** Generative AI, AI Prompt Engineering, Hugging Face, LangChain
+
+<p>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> 
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a>  
+<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="50"/> </a>
+<a href="https://www.elastic.co/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a>
+<a href="https://aws.amazon.com/eks/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="eks" width="50" height="50"/> </a>
+<a href="https://docs.aws.amazon.com/cloudformation/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" alt="AWS CloudFormation" width="50" height="50"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="50" height="50"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="50" height="50"/> </a>
+<a href="https://slack.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="50" height="50"/> </a>
+<a href="https://aws.amazon.com/cloudwatch/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="AWS Cloudwatch" width="50" height="50"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Apache Airflow" width="50" height="50"/> </a>
+<a href="https://aws.amazon.com/glue/" target="_blank"> <img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" alt="AWS Glue" width="50" height="50"/> </a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Confluence.svg" alt="Confluence" width="50" height="50"/> </a>
+<a href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" alt="Confluence" width="50" height="50"/> </a>
+<a href="https://aws.amazon.com/athena/" target="_blank"> <img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" alt="athena" width="50" height="50"/> </a>
+<a href="https://aws.amazon.com/emr/" target="_blank"> <img src="https://icon.icepanel.io/AWS/svg/Analytics/EMR.svg" alt="emr" width="50" height="50"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="50" height="50"/> </a>
+<a href="https://streamlit.io/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" alt="streamlit" width="50" height="50"/> </a>
+<a href="https://huggingface.co/" target="_blank"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" alt="huggingface" width="50" height="50"/> </a>
+<a href="https://www.langchain.com/" target="_blank"> <img src="https://cdn.brandfetch.io/idzf7Sjo28/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="langchain" width="50" height="50"/> </a>
+<a href="https://www.w3.org/TR/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="50" height="50"/> </a>
+<a href="http://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="50" height="50" alt="postgresql"/> </a>
+<a href="https://bitbucket.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" width="50" height="50"/> </a>
+<a href="https://www.getpostman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a href="http://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="50" height="50"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a>
+<a href="https://www.redhat.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="50" height="50"/> </a>
+<a href="https://www.ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="50" height="50"/> </a>
+<a href="https://www.elastic.co/products/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="50" height="50"/> </a>
+<a href="https://www.elastic.co/products/logstash" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" width="50" height="50"/> </a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="50" height="50"/> </a>
+<a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="github" width="50" height="50"/> </a>
+
+</p>
 
 ---
 
