@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Mayuraksha Sikdar
+## নমস্কার (Greetings) 🙏🏼
 
-🚀 **Certified Software Engineer | Cloud & Data Engineering | GEN-AI Enabler | DevOps Enthusiast**
+# Hi there! 👋 I'm [Mayuraksha Sikdar](https://adataguy.in)
+
+🚀 **Certified Software Engineer | Cloud & Data Engineering | GEN-AI Enabler | DevOps Enthusiast 💻**
 
 [![Website](https://img.shields.io/badge/Website-adataguy.in-orange?logo=google-chrome)](https://adataguy.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mayuraksha-sikdar/)
