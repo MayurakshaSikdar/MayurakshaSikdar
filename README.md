@@ -96,8 +96,8 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 ---
 
 ## 🎓 Education
-- **MSc in Data Analytics** – *TUS Athlone, Ireland*  
-- **B.Tech in Computer Science** – *Narula Institute of Technology*  
+- **MSc in Data Analytics** &nbsp;|&nbsp; *Dublin, Ireland*  
+- **B.Tech in Computer Science** &nbsp;|&nbsp; *Kolkata, India*
 
 ---
 
