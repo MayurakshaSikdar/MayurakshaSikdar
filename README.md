@@ -110,18 +110,18 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 ## 🏆 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url"><img src="img/aws-data-engineer.png" height=75" alt="AWS DE"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9"><img src="img/microsoft-azure-devops-expert.svg" height=75" alt="Azure DevOps"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D"><img src="img/microsoft-azure-ai-associate.svg" height=75" alt="Azure AI"></a>
-  <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url"><img src="img/gcp.png" height=75" alt="GCP"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4"><img src="img/microsoft-azure-admin-associate.svg" height=75" alt="Azure Admin"></a>
-  <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url"><img src="img/aws-specialty.png" height=75" alt="AWS DA"></a>
-  <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url"><img src="img/aws-dva.png" height=75" alt="AWS Dev"></a>
-  <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url"><img src="img/aws-genai.png" height=75" alt="AWS GenAI"></a>
-  <a href="https://www.hackerrank.com/profile/MayurakshaSikdar"><img src="img/python-5-star.png" height=75" alt="Python"></a>
-  <a href=""><img src="img/ielts.png" height=75" alt="Hackerrank Python"></a>
-  <a href="https://www.linkedin.com/learning/certificates/defaeaf5040712ea9bb799e5c22b6bc8ee934bf351dc672044414fc0289d4e29"><img src="img/linkedin-learning.png" height=75" alt="LinkedIn Learning"></a>
-  <a href="https://www.udemy.com/certificate/UC-JO10PKZ5/"><img src="img/udemy-python.png" height=75" alt="Udemy Python Bootcamp"></a>
+  <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url"><img src="img/aws-data-engineer.png" height="60"  alt="AWS DE"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9"><img src="img/microsoft-azure-devops-expert.svg" height="60" alt="Azure DevOps"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D"><img src="img/microsoft-azure-ai-associate.svg" height="60" alt="Azure AI"></a>
+  <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url"><img src="img/gcp.png" height="60" alt="GCP"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4"><img src="img/microsoft-azure-admin-associate.svg" height="60" alt="Azure Admin"></a>
+  <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url"><img src="img/aws-specialty.png" height="60" alt="AWS DA"></a>
+  <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url"><img src="img/aws-dva.png" height="60" alt="AWS Dev"></a>
+  <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url"><img src="img/aws-genai.png" height="60" alt="AWS GenAI"></a>
+  <a href="https://www.hackerrank.com/profile/MayurakshaSikdar"><img src="img/python-5-star.png" height="60" alt="Python"></a>
+  <a href=""><img src="img/ielts.png" height="60" alt="Hackerrank Python"></a>
+  <a href="https://www.linkedin.com/learning/certificates/defaeaf5040712ea9bb799e5c22b6bc8ee934bf351dc672044414fc0289d4e29"><img src="img/linkedin-learning.png" height="60" alt="LinkedIn Learning"></a>
+  <a href="https://www.udemy.com/certificate/UC-JO10PKZ5/"><img src="img/udemy-python.png" height="60" alt="Udemy Python Bootcamp"></a>
 </p>
 
 ---
