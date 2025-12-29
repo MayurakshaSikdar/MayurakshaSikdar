@@ -16,21 +16,23 @@
 ---
 
 ## 👨‍💻 About Me
+
 I am a **Certified Software Engineer** with over **5 years of experience** in cloud computing, data engineering, and backend development. I have worked extensively with **AWS, GCP, Python, Spark, and DevOps tools** to build scalable data solutions, ETL pipelines, and cloud-native applications. I am also passionate about **automation, event-driven architectures, and Generative AI**.
 
 ---
 
 ## 🔥 Key Skills
-- **Programming:** Python, Java, JavaScript, Shell Scripting  
-- **Databases:** MySQL, MongoDB, DynamoDB  
-- **Cloud Platforms:** AWS (2x Certified), GCP (Certified), Azure  
-- **DevOps & Tools:** Docker, Kubernetes, Terraform, Jenkins, Git, CI/CD Pipelines  
-- **Big Data & ETL:** Apache Spark, PySpark, AWS Glue, Data Lakes  
+
+- **Programming:** Python, Java, JavaScript, Shell Scripting
+- **Databases:** MySQL, MongoDB, DynamoDB
+- **Cloud Platforms:** AWS (5x Certified), Azure (5x Certified) GCP (1x Certified)
+- **DevOps & Tools:** Docker, Kubernetes, Terraform, Jenkins, Git, CI/CD Pipelines
+- **Big Data & ETL:** Apache Spark, PySpark, AWS Glue, Data Lakes
 - **AI & Automation:** Generative AI, AI Prompt Engineering, Hugging Face, LangChain
 
 <p>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a>  
 <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> </a>
@@ -82,7 +84,9 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 ---
 
 ## 📌 Work Experience
+
 ### **Accenture Solutions Pvt. Ltd.** (2020 - 2024)
+
 - Developed **scalable ETL pipelines** and **API endpoints** for cloud-based data lakes.  
 - Led **Azure-to-AWS migration** for an international client.  
 - Built event-driven architectures using **AWS Lambda, SNS, SQS, EventBridge**.  
@@ -90,23 +94,37 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 - Guided junior DevOps teams to implement **CI/CD pipelines, Jenkins, and Terraform**.  
 
 ### **Freelance Work (Ongoing)**
+
 - Built **backend services and REST APIs** for a healthcare startup.  
 - Integrated **AI models and event-driven workflows** into applications.  
 
 ---
 
 ## 🎓 Education
+
 - **MSc in Data Analytics** &nbsp;|&nbsp; *Dublin, Ireland*  
 - **B.Tech in Computer Science** &nbsp;|&nbsp; *Kolkata, India*
 
 ---
 
 ## 🏆 Certifications
-- **AWS Certified Data Analytics – Specialty** (2023)  
-- **AWS Certified Developer – Associate** (2021)  
-- **GCP Associate Cloud Engineer** (2024)  
+
+[![AWS Certified Data Engineer – Associate](img/aws-data-engineer.png)]
+[![Microsoft Azure DevOps Expert](img/microsoft-azure-devops-expert.svg)]
+[![Microsoft Azure AI Engineer Associate](img/microsoft-azure-ai-associate.svg)]
+[![Google Certified Associate - Cloud Engineer](img/gcp.png)]
+[![Microsoft Azure Administrator Associate](img/microsoft-azure-admin-associate.svg)]
+[![AWS Certified Data Analytics – Specialty](img/aws-specialty.png)]
+[![AWS Certified Developer – Associate](img/aws-dva.png)]
+[![AWS GEN AI](img/aws-genai.png)]
+[![HackerRank Python (5-star Gold Level)](img/python-5-star.png)]
+
+### **Other Certifications**
+
 - **AWS Partner: Generative AI Essentials** (2023)  
 - **HackerRank Python Gold (5-Star Coder)**  
+- **Hugging Face - NLP Practitioner** (2024)
+- **LangChain - LLM Application Development** (2024)
 
 ---
 
@@ -123,8 +141,8 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 
 ---
 
+## 📫 Let's Connect
 
-## 📫 Let's Connect!
 🌐 Website: [adataguy.in](https://adataguy.in)  
 💌 Email: [mayurakshasikdar@gmail.com](mailto:mayurakshasikdar@gmail.com)  
 💌 Email: [adataguy.in@gmail.com](mailto:adataguy.in@gmail.com)  
@@ -137,3 +155,109 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 ---
 
 🚀 Feel free to check out my repositories and projects! Looking forward to collaborating and connecting! 😃
+
+<style>
+  .cert-micro-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 6px;
+    justify-content: center;
+  }
+  
+  .cert-micro-card {
+    width: 90px;
+    text-align: center;
+    background: white;
+    border-radius: 5px;
+    padding: 4px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+    transition: all 0.15s ease;
+  }
+  
+  .cert-micro-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  }
+  
+  .cert-micro-card img {
+    width: 100%;
+    height: 50px;
+    object-fit: contain;
+  }
+  
+  .cert-micro-card p {
+    margin: 2px 0 0;
+    font-weight: 500;
+    color: #555;
+    font-size: 9px;
+    line-height: 1.1;
+  }
+</style>
+
+## 🏆 Certifications
+
+<div class="cert-micro-container">
+  <div class="cert-micro-card">
+    <a href="https://www.credly.com/badges/6f517cfcd3a04b69bfc597fa9f142a81" target="_blank">
+      <img src="img/aws-data-engineer.png" alt="AWS DE">
+    </a>
+    <p>AWS DE</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="YOUR_MICROSOFT_LINK" target="_blank">
+      <img src="img/microsoft-azure-devops-expert.svg" alt="Azure DevOps">
+    </a>
+    <p>Azure DevOps</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="YOUR_MICROSOFT_LINK" target="_blank">
+      <img src="img/microsoft-azure-ai-associate.svg" alt="Azure AI">
+    </a>
+    <p>Azure AI</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="YOUR_GOOGLE_LINK" target="_blank">
+      <img src="img/gcp.png" alt="GCP">
+    </a>
+    <p>GCP</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="YOUR_MICROSOFT_LINK" target="_blank">
+      <img src="img/microsoft-azure-admin-associate.svg" alt="Azure Admin">
+    </a>
+    <p>Azure Admin</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="YOUR_CREDLY_LINK" target="_blank">
+      <img src="img/aws-specialty.png" alt="AWS DA">
+    </a>
+    <p>AWS DA</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="YOUR_CREDLY_LINK" target="_blank">
+      <img src="img/aws-dva.png" alt="AWS Dev">
+    </a>
+    <p>AWS Dev</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="YOUR_CREDLY_LINK" target="_blank">
+      <img src="img/aws-genai.png" alt="GenAI">
+    </a>
+    <p>AWS GenAI</p>
+  </div>
+  
+  <div class="cert-micro-card">
+    <a href="https://www.hackerrank.com/profile/MayurakshaSikdar" target="_blank">
+      <img src="img/python-5-star.png" alt="Python">
+    </a>
+    <p>Python 5★</p>
+  </div>
+</div>
