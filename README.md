@@ -119,9 +119,9 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
   <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url"><img src="img/aws-dva.png" height="40" alt="AWS Dev"></a>
   <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url"><img src="img/aws-genai.png" height="40" alt="AWS GenAI"></a>
   <a href="https://www.hackerrank.com/profile/MayurakshaSikdar"><img src="img/python-5-star.png" height="40" alt="Python"></a>
-  <a href=""><img src="img/ielts.png" height="40" alt="Python"></a>
-  <a href="https://www.linkedin.com/learning/certificates/defaeaf5040712ea9bb799e5c22b6bc8ee934bf351dc672044414fc0289d4e29"><img src="img/linkedin-learning.png" height="40" alt="Python"></a>
-  <a href="https://www.udemy.com/certificate/UC-JO10PKZ5/"><img src="img/udemy-python.png" height="40" alt="Python"></a>
+  <a href=""><img src="img/ielts.png" height="40" alt="Hackerrank Python"></a>
+  <a href="https://www.linkedin.com/learning/certificates/defaeaf5040712ea9bb799e5c22b6bc8ee934bf351dc672044414fc0289d4e29"><img src="img/linkedin-learning.png" height="40" alt="LinkedIn Learning"></a>
+  <a href="https://www.udemy.com/certificate/UC-JO10PKZ5/"><img src="img/udemy-python.png" height="40" alt="Udemy Python Bootcamp"></a>
 </p>
 
 ---
