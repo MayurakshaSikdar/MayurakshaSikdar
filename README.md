@@ -273,53 +273,10 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 
 <div align="center">
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; max-width: 300px; margin: 0 auto;">
-
-<a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/aws-data-engineer.png" alt="AWS DE" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">AWS DE</div>
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/microsoft-azure-devops-expert.svg" alt="Azure DevOps" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">Azure DevOps</div>
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/microsoft-azure-ai-associate.svg" alt="Azure AI" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">Azure AI</div>
-</a>
-
-<a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/gcp.png" alt="GCP" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">GCP</div>
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/microsoft-azure-admin-associate.svg" alt="Azure Admin" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">Azure Admin</div>
-</a>
-
-<a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/aws-specialty.png" alt="AWS DA" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">AWS DA</div>
-</a>
-
-<a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/aws-dva.png" alt="AWS Dev" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">AWS Dev</div>
-</a>
-
-<a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/aws-genai.png" alt="GenAI" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">AWS GenAI</div>
-</a>
-
-<a href="https://www.hackerrank.com/profile/MayurakshaSikdar" style="text-decoration: none; background: white; border-radius: 4px; padding: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eee; height: 65px; display: flex; flex-direction: column; justify-content: center;">
-  <img src="img/python-5-star.png" alt="Python" style="width: 100%; height: 30px; object-fit: contain; margin-bottom: 3px;">
-  <div style="font-size: 7px; font-weight: 600; color: #333; line-height: 1.1;">Python 5★</div>
-</a>
-
-</div>
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-data-engineer.png" alt="AWS DE" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS Data Engineer<br>Associate</div></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/microsoft-azure-devops-expert.svg" alt="Azure DevOps" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Azure DevOps<br>Expert</div></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/microsoft-azure-ai-associate.svg" alt="Azure AI" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Azure AI Engineer<br>Associate</div></a> |
+| <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/gcp.png" alt="GCP" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Google Cloud<br>Associate</div></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/microsoft-azure-admin-associate.svg" alt="Azure Admin" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Azure Admin<br>Associate</div></a> | <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-specialty.png" alt="AWS DA" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS Data Analytics<br>Specialty</div></a> |
+| <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-dva.png" alt="AWS Dev" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS Developer<br>Associate</div></a> | <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-genai.png" alt="GenAI" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS<br>Generative AI</div></a> | <a href="https://www.hackerrank.com/profile/MayurakshaSikdar" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/python-5-star.png" alt="Python" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Python<br>5★ Gold</div></a> |
 
 </div>
