@@ -111,10 +111,10 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 
 <p align="center">
   <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url"><img src="img/aws-data-engineer.png" height="50"  alt="AWS DE"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9"><img src="img/microsoft-azure-devops-expert.svg" height="50" alt="Azure DevOps"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D"><img src="img/microsoft-azure-ai-associate.svg" height="50" alt="Azure AI"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9"><img src="img/microsoft-azure-devops-expert.png" height="50" alt="Azure DevOps"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D"><img src="img/microsoft-azure-ai-associate.png" height="50" alt="Azure AI"></a>
   <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url"><img src="img/gcp.png" height="50" alt="GCP"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4"><img src="img/microsoft-azure-admin-associate.svg" height="50" alt="Azure Admin"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4"><img src="img/microsoft-azure-admin-associate.png" height="50" alt="Azure Admin"></a>
   <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url"><img src="img/aws-specialty.png" height="50" alt="AWS DA"></a>
   <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url"><img src="img/aws-dva.png" height="50" alt="AWS Dev"></a>
   <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url"><img src="img/aws-genai.png" height="50" alt="AWS GenAI"></a>
