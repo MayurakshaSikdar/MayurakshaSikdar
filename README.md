@@ -109,22 +109,20 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 
 ## 🏆 Certifications
 
-[![AWS Certified Data Engineer – Associate](img/aws-data-engineer.png)]
-[![Microsoft Azure DevOps Expert](img/microsoft-azure-devops-expert.svg)]
-[![Microsoft Azure AI Engineer Associate](img/microsoft-azure-ai-associate.svg)]
-[![Google Certified Associate - Cloud Engineer](img/gcp.png)]
-[![Microsoft Azure Administrator Associate](img/microsoft-azure-admin-associate.svg)]
-[![AWS Certified Data Analytics – Specialty](img/aws-specialty.png)]
-[![AWS Certified Developer – Associate](img/aws-dva.png)]
-[![AWS GEN AI](img/aws-genai.png)]
-[![HackerRank Python (5-star Gold Level)](img/python-5-star.png)]
-
-### **Other Certifications**
-
-- **AWS Partner: Generative AI Essentials** (2023)  
-- **HackerRank Python Gold (5-Star Coder)**  
-- **Hugging Face - NLP Practitioner** (2024)
-- **LangChain - LLM Application Development** (2024)
+<p align="center">
+  <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url"><img src="img/aws-data-engineer.png" height="40" alt="AWS DE"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9"><img src="img/microsoft-azure-devops-expert.svg" height="40" alt="Azure DevOps"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D"><img src="img/microsoft-azure-ai-associate.svg" height="40" alt="Azure AI"></a>
+  <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url"><img src="img/gcp.png" height="40" alt="GCP"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4"><img src="img/microsoft-azure-admin-associate.svg" height="40" alt="Azure Admin"></a>
+  <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url"><img src="img/aws-specialty.png" height="40" alt="AWS DA"></a>
+  <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url"><img src="img/aws-dva.png" height="40" alt="AWS Dev"></a>
+  <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url"><img src="img/aws-genai.png" height="40" alt="AWS GenAI"></a>
+  <a href="https://www.hackerrank.com/profile/MayurakshaSikdar"><img src="img/python-5-star.png" height="40" alt="Python"></a>
+  <a href=""><img src="img/ielts.png" height="40" alt="Python"></a>
+  <a href="https://www.linkedin.com/learning/certificates/defaeaf5040712ea9bb799e5c22b6bc8ee934bf351dc672044414fc0289d4e29"><img src="img/linkedin-learning.png" height="40" alt="Python"></a>
+  <a href="https://www.udemy.com/certificate/UC-JO10PKZ5/"><img src="img/udemy-python.png" height="40" alt="Python"></a>
+</p>
 
 ---
 
@@ -155,128 +153,3 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 ---
 
 🚀 Feel free to check out my repositories and projects! Looking forward to collaborating and connecting! 😃
-
-<style>
-  .cert-micro-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-    padding: 6px;
-    justify-content: center;
-  }
-  
-  .cert-micro-card {
-    width: 90px;
-    text-align: center;
-    background: white;
-    border-radius: 5px;
-    padding: 4px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
-    transition: all 0.15s ease;
-  }
-  
-  .cert-micro-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  }
-  
-  .cert-micro-card img {
-    width: 100%;
-    height: 50px;
-    object-fit: contain;
-  }
-  
-  .cert-micro-card p {
-    margin: 2px 0 0;
-    font-weight: 500;
-    color: #555;
-    font-size: 9px;
-    line-height: 1.1;
-  }
-</style>
-
-## 🏆 Certifications
-
-<div class="cert-micro-container">
-  <div class="cert-micro-card">
-    <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url" target="_blank">
-      <img src="img/aws-data-engineer.png" alt="AWS DE">
-      <p>AWS Data Engineer - Associate</p>
-    </a>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9" target="_blank">
-      <img src="img/microsoft-azure-devops-expert.svg" alt="Azure DevOps">
-      <p>Microsoft Azure DevOps Expert</p>
-    </a>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D" target="_blank">
-      <img src="img/microsoft-azure-ai-associate.svg" alt="Azure AI">
-    </a>
-    <p>Microsoft Azure AI Engineer Associate</p>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url" target="_blank">
-      <img src="img/gcp.png" alt="GCP">
-      <p>Google Associate Cloud Engineer</p>
-    </a>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4" target="_blank">
-      <img src="img/microsoft-azure-admin-associate.svg" alt="Azure Admin">
-    </a>
-    <p>Microsoft Azure Administrator Associate</p>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url" target="_blank">
-      <img src="img/aws-specialty.png" alt="AWS DA">
-    </a>
-    <p>AWS Data Analytics - Specialty</p>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url" target="_blank">
-      <img src="img/aws-dva.png" alt="AWS Dev">
-    </a>
-    <p>AWS Developer Associate</p>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url" target="_blank">
-      <img src="img/aws-genai.png" alt="GenAI">
-    </a>
-    <p>AWS GenAI</p>
-  </div>
-  
-  <div class="cert-micro-card">
-    <a href="https://www.hackerrank.com/profile/MayurakshaSikdar" target="_blank">
-      <img src="img/python-5-star.png" alt="Python">
-    </a>
-    <p>Python 5★</p>
-  </div>
-</div>
-
-
-
-
-
-----
-
-
-## 🏆 Certifications
-
-<div align="center">
-
-| | | |
-| :---: | :---: | :---: |
-| <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-data-engineer.png" alt="AWS DE" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS Data Engineer<br>Associate</div></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/microsoft-azure-devops-expert.svg" alt="Azure DevOps" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Azure DevOps<br>Expert</div></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/microsoft-azure-ai-associate.svg" alt="Azure AI" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Azure AI Engineer<br>Associate</div></a> |
-| <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/gcp.png" alt="GCP" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Google Cloud<br>Associate</div></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/microsoft-azure-admin-associate.svg" alt="Azure Admin" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Azure Admin<br>Associate</div></a> | <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-specialty.png" alt="AWS DA" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS Data Analytics<br>Specialty</div></a> |
-| <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-dva.png" alt="AWS Dev" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS Developer<br>Associate</div></a> | <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/aws-genai.png" alt="GenAI" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">AWS<br>Generative AI</div></a> | <a href="https://www.hackerrank.com/profile/MayurakshaSikdar" style="text-decoration: none; display: inline-block; width: 100px; background: white; border-radius: 6px; padding: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.08); text-align: center; border: 1px solid #eaeaea;"><img src="img/python-5-star.png" alt="Python" style="width: 100%; height: 50px; object-fit: contain; margin-bottom: 6px;"><div style="font-size: 10px; font-weight: 600; color: #333;">Python<br>5★ Gold</div></a> |
-
-</div>
