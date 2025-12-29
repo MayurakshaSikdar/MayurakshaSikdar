@@ -199,56 +199,56 @@ I am a **Certified Software Engineer** with over **5 years of experience** in cl
 
 <div class="cert-micro-container">
   <div class="cert-micro-card">
-    <a href="https://www.credly.com/badges/6f517cfcd3a04b69bfc597fa9f142a81" target="_blank">
+    <a href="https://www.credly.com/badges/dff11a34-e4b3-4e4f-9721-c5824633e2c3/public_url" target="_blank">
       <img src="img/aws-data-engineer.png" alt="AWS DE">
+      <p>AWS Data Engineer - Associate</p>
     </a>
-    <p>AWS DE</p>
   </div>
   
   <div class="cert-micro-card">
-    <a href="YOUR_MICROSOFT_LINK" target="_blank">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/48F67953ADD6F4D9" target="_blank">
       <img src="img/microsoft-azure-devops-expert.svg" alt="Azure DevOps">
+      <p>Microsoft Azure DevOps Expert</p>
     </a>
-    <p>Azure DevOps</p>
   </div>
   
   <div class="cert-micro-card">
-    <a href="YOUR_MICROSOFT_LINK" target="_blank">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E213A6FFD332CC1D" target="_blank">
       <img src="img/microsoft-azure-ai-associate.svg" alt="Azure AI">
     </a>
-    <p>Azure AI</p>
+    <p>Microsoft Azure AI Engineer Associate</p>
   </div>
   
   <div class="cert-micro-card">
-    <a href="YOUR_GOOGLE_LINK" target="_blank">
+    <a href="https://www.credly.com/badges/182bf8dc-6a44-444b-b710-84374c9a38ee/public_url" target="_blank">
       <img src="img/gcp.png" alt="GCP">
+      <p>Google Associate Cloud Engineer</p>
     </a>
-    <p>GCP</p>
   </div>
   
   <div class="cert-micro-card">
-    <a href="YOUR_MICROSOFT_LINK" target="_blank">
+    <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MayurakshaSikdar/E5E15A8DA5031FF4" target="_blank">
       <img src="img/microsoft-azure-admin-associate.svg" alt="Azure Admin">
     </a>
-    <p>Azure Admin</p>
+    <p>Microsoft Azure Administrator Associate</p>
   </div>
   
   <div class="cert-micro-card">
-    <a href="YOUR_CREDLY_LINK" target="_blank">
+    <a href="https://www.credly.com/badges/71972ba0-5ddd-4164-96e0-e2813d432304/public_url" target="_blank">
       <img src="img/aws-specialty.png" alt="AWS DA">
     </a>
-    <p>AWS DA</p>
+    <p>AWS Data Analytics - Specialty</p>
   </div>
   
   <div class="cert-micro-card">
-    <a href="YOUR_CREDLY_LINK" target="_blank">
+    <a href="https://www.credly.com/badges/30b6c63e-d47a-4043-985b-94cbe711837f/public_url" target="_blank">
       <img src="img/aws-dva.png" alt="AWS Dev">
     </a>
-    <p>AWS Dev</p>
+    <p>AWS Developer Associate</p>
   </div>
   
   <div class="cert-micro-card">
-    <a href="YOUR_CREDLY_LINK" target="_blank">
+    <a href="https://www.credly.com/badges/e67f58c2-9e24-4790-a44d-7acffc8f57ab/public_url" target="_blank">
       <img src="img/aws-genai.png" alt="GenAI">
     </a>
     <p>AWS GenAI</p>
